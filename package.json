@@ -9,15 +9,15 @@
     },
     "templateVersion": "v2"
   },
-  "name": "tns-template-blank-svelte",
-  "displayName": "Blank Svelte",
+  "name": "dice-helper",
+  "displayName": "Dice roll helper",
   "templateType": "App template",
-  "author": "David Pershouse (https://github.com/halfnelson)",
-  "version": "6.4.0",
+  "author": "Jorge Alvarez (https://github.com/jorgegorka)",
+  "version": "1.0.0",
   "main": "app.js",
-  "description": "Blank template for Nativescript application using Svelte",
-  "license": "Apache-2.0",
-  "repository": "https://github.com/halfnelson/svelte-native-template",
+  "description": "Dice roll helper",
+  "license": "MIT",
+  "repository": "https://github.com/jorgegorka/dice-helper",
   "dependencies": {
     "nativescript-theme-core": "~2.0.24",
     "svelte-native": "~0.8.0",
@@ -31,5 +31,5 @@
     "typescript": "~3.7.5"
   },
   "gitHead": "c06800e52ee1a184ea2dffd12a6702aaa43be4e3",
-  "readme": "NativeScript Application"
+  "readme": "Dice roller"
 }
